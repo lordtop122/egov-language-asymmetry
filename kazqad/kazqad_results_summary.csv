@@ -1,0 +1,8 @@
+method,mrr,recall_at_5
+dense_english_only,0.008,0.016
+dense_multilingual_minilm,0.133,0.212
+bm25,0.428,0.538
+tfidf,0.434,0.588
+hybrid,0.467,0.602
+dense_e5_seed42,0.608,0.741
+dense_e5_seed7,0.616,0.743
